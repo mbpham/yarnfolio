@@ -1,8 +1,15 @@
 body {
   font-family: 'Open Sans Condensed';
+  padding: 20px 80px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 
 
+/*
 .App {
   text-align: center;
 }
@@ -40,4 +47,4 @@ body {
   to {
     transform: rotate(360deg);
   }
-}
+} */
